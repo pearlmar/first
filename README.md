@@ -1,2 +1,2 @@
 # first
-test
+wersja poprawna w galezi SECOND
