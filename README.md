@@ -1,2 +1,2 @@
 # first
-wersja poprawna w galezi SECOND
+wersja poprawna w repo SECOND
